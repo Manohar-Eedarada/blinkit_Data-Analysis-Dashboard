@@ -47,3 +47,6 @@
 - **Outlet Location**
 - **Item Type**
 - **Outlet Size**
+
+## Dashboard
+![blinkit img](https://github.com/user-attachments/assets/936545b3-3c59-4266-a657-ceff367e381d)
