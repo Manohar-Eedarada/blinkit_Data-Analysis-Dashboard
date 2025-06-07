@@ -53,15 +53,9 @@
 
 ## Final Conclustion:
 The Blinkit Dashboard provides a comprehensive visualization of sales, product performance, and outlet effectiveness across different dimensions such as item types, outlet sizes, and location tiers. Through this analysis, several key insights were identified:
-
-High Total Sales: The platform achieved a total sales figure of $1.20M, with over 8500+ items sold, indicating strong market activity.
-
-Top Outlet Types: Supermarket Type 1 dominated sales, contributing over $787K, making it the most effective outlet type.
-
-Sales by Item Type: Fruits, snacks, and household items were the highest-selling categories, indicating customer preferences.
-
-Outlet Performance by Size: Medium-sized outlets had the highest sales, showcasing the scalability of mid-range operations.
-
-Fat Content Analysis: Regular fat products performed significantly better than low-fat alternatives, both in volume and value.
-
-Customer Ratings: The average product rating across all outlets is 3.92, reflecting generally good customer satisfaction.
+**High Total Sales:** The platform achieved a total sales figure of $1.20M, with over 8500+ items sold, indicating strong market activity.
+**Top Outlet Types:** Supermarket Type 1 dominated sales, contributing over $787K, making it the most effective outlet type.
+**Sales by Item Type:** Fruits, snacks, and household items were the highest-selling categories, indicating customer preferences.
+**Outlet Performance by Size:** Medium-sized outlets had the highest sales, showcasing the scalability of mid-range operations.
+**Fat Content Analysis:** Regular fat products performed significantly better than low-fat alternatives, both in volume and value.
+**Customer Ratings:** The average product rating across all outlets is 3.92, reflecting generally good customer satisfaction.
