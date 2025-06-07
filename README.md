@@ -51,7 +51,7 @@
 ## Dashboard
 ![blinkit img](https://github.com/user-attachments/assets/936545b3-3c59-4266-a657-ceff367e381d)
 
-## Final Conclustion
+## Final Conclustion:
 The Blinkit Dashboard provides a comprehensive visualization of sales, product performance, and outlet effectiveness across different dimensions such as item types, outlet sizes, and location tiers. Through this analysis, several key insights were identified:
 
 High Total Sales: The platform achieved a total sales figure of $1.20M, with over 8500+ items sold, indicating strong market activity.
